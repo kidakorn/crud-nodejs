@@ -1,0 +1,28 @@
+{
+  "name": "crud-nodejs",
+  "version": "1.0.0",
+  "description": "Building a CRUD Application with Node.js, Express, and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidakorn/crud-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kidakorn/crud-nodejs/issues"
+  },
+  "homepage": "https://github.com/kidakorn/crud-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.5",
+    "nodemon": "^3.1.10"
+  }
+}
